@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "696933167580",
+    "firebase_url": "https://hello-11eaf.firebaseio.com",
+    "project_id": "hello-11eaf",
+    "storage_bucket": "hello-11eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696933167580:android:5bd04d6e07412d467b1f19",
+        "android_client_info": {
+          "package_name": "com.example.robychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696933167580-m23tkqa4s6hu3mnejdkjtmj8agj0fe63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.robychatapp",
+            "certificate_hash": "02faf10a5741dad35e4be24ac76a4c9e24516de8"
+          }
+        },
+        {
+          "client_id": "696933167580-q3ss3ouvb47mrsrr93ncmnfl41n67tuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2L7-e225WVBkZaLE3ksNmqum3tUbaD94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696933167580-q3ss3ouvb47mrsrr93ncmnfl41n67tuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696933167580:android:ee6fbcba7146be71",
+        "android_client_info": {
+          "package_name": "com.jadhavrupesh22.robbychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696933167580-4dt9dn5rv14fqbcs7fbs71eam9dh8a0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jadhavrupesh22.robbychatapp",
+            "certificate_hash": "6956e5cd1450a4c812ee0a29beb9a27ca4898a03"
+          }
+        },
+        {
+          "client_id": "696933167580-ajbpd2bqe9b6mrnm2pvsflff3obl52bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jadhavrupesh22.robbychatapp",
+            "certificate_hash": "5079005e9a476afdb75acbf7da1142b3f43f4cea"
+          }
+        },
+        {
+          "client_id": "696933167580-q3ss3ouvb47mrsrr93ncmnfl41n67tuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2L7-e225WVBkZaLE3ksNmqum3tUbaD94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696933167580-q3ss3ouvb47mrsrr93ncmnfl41n67tuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
