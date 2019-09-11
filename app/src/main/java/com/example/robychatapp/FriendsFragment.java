@@ -117,6 +117,7 @@ public class FriendsFragment extends Fragment {
                         friendsViewHolder.setUserImage(userThumb, getContext());
 
 
+
                         friendsViewHolder.mView.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View view) {
